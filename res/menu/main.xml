@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.brain_test.Picture_matching" >
+    <item android:id="@+id/item1" android:title="@string/music" android:showAsAction="ifRoom"></item>
+
+</menu>
